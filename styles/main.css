@@ -87,6 +87,7 @@ header img {
     display: block;
 }
 
+
 /* the styles for the section */
 section {
 	width: 65.625%;
@@ -142,7 +143,6 @@ article img {
 /* the styles for the aside */
 aside {
 	width: 26.875%;
-	float: right;
 	padding: 00 20px 2.5%;
 }
 aside h2 {
